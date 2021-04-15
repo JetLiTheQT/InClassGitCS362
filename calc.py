@@ -8,4 +8,7 @@ def calc(a, b):
     multiply = a*b
     print(multiply)
 
+    quotient = a/b
+    print(quotient)
+
 
