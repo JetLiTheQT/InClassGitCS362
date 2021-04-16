@@ -4,3 +4,4 @@ def calc(a, b):
     product = a*b
     quotient = a/b
 
+
